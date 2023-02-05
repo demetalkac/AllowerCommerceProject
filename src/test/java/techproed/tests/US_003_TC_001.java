@@ -107,9 +107,9 @@ public class US_003_TC_001 {
 
     }
 
-    @AfterMethod
-    public void tearDown(){
-        Driver.closeDriver();
-    }
+//    @AfterMethod
+//    public void tearDown(){
+//        Driver.closeDriver();
+//    }
 
 }
